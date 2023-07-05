@@ -1,0 +1,844 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-livesay.json",
+  "type": "AnnotationPage",
+  "label": "Livesay",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Thank you",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "418.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: I have so much to cover that I expect I shall be plucked by the tail and told to stop!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "430.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The 1920s in Canada were a most unusual period between social upheavals that might have made this country the first British colony to achieve socialism.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "437.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "All of Canada experienced the trauma of the First World War with its decimating losses of young men. All of Canada, proud at first to have been a contributing partner in the British Empire was seized by another kind of pride – that of being Canadian and of desiring complete independence and nationhood.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "449.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was one dominant element in the ‘20s as I was a young girl still at school: Canadian nationalism. It was strong enough to push for complete independence from Britain, achieved at the end of the decade through the Treaty of Westminster.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "467.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But there was another kind of ferment going on during the ‘20s – a social ferment. The defeat of the 1919 General Strike in Winnipeg, with its parallel struggles in B.C. tended to create a fog around what had really happened and why.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "484.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is only in our time that the historians have documented the poverty of the new immigrants, the low wages and long hours, the return of veterans expecting to be heroes but finding only unemployment. The ruthlessness of the state in bringing in the police against peaceful demonstrators.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yet all the time there were documents to be had and found – for the writers were writing. Their books were being published all through the ‘20s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "517.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In Manitoba the first literature of social protest was being created by all manner of folk who were close to the people and wanted their voices heard. This is the whole ‘populist’ movement of Canadian prose fiction, which has been dismissed by critics and forgotten, but it was a tremendous thing because Ralph Connor and Nellie McClung really were speaking of the social evils of the day, and presenting them—and their books sold by the … 50,000.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "526.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So they were laying the basis—this populist movement of prose writers—were laying the basis, I think, for all that happened afterwards—the fact that the Canadian novel really came to birth on the prairie in Manitoba, with the descendants of Martha Ostenso, the descendants of Laura Goodman Salverson, the descendants of Mazo de la Roche in Ontario. People who wrote for the people, but did not write brilliant literary pieces of work, but they laid the basis, I believe, for Margaret Lawrence, for Adele Wiseman, for Gabrielle Roy, and the Canadian novel came to birth and to long life.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "560.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the field of poetry the picture is less clear. It’s been obscured on the one hand by the hangover from the Confederation Poets, particularly Roberts and Carman, who returned to Canada after the war after 25 years [of] exile—they were both in the states—and toured the country with their less than passionate lyricism and nature poetry.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "611.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "These were fascinating literary figures, who traveled up and down the country reading their poems, and as a young girl I was extremely interested in them, of course. I make no bones about the influence they had on a young student like myself. But their influence on the literary scene was to send poetasters and sunday poets backwards. Most of the people writing for the newspapers and so on were dubbed “The Maple Leaf School.”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "632.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Only in isolated productions did Carman in his Sappho poems and Roberts in a poem like “The Iceberg” reveal their own interest in free verse poems. So, the fact that they were not concerned with modern poetry led the younger people in the country to resist it, and to write against what they had been doing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "662.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the influence that caught hold of the imagination of young poets in Ontario like Raymond Knister and in Montreal Louise Morey Bowman, and myself also in Ontario, and two other poets in Ontario—W. W. E. Ross and the painter Lauren Harris—the influence which really caught their attention was imagism, which was an international movement in poetry centered in England and the United States.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "689.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think that that movement had a tremendous effect on these individual poets, such as Raymond Knister, Ross, and myself. Because it was concerned with plain speech, free rhythm—a debarassment—a taking away of all the clutter of adjectives and adverbs and of poetic structures and speaking out plainly about the immediate place and time. So these individual poets, I feel, gave our poetry a locus and a focus. Moment and scene. Time and place.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In my view it was a great pity that the Montreal McGill group published in 1937 an anthology written some ten years earlier of poems largely irrelevant to the Canadian literary scene to the needs of the time.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "773.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It seems to me that what was going on in individual poets in Ontario was being ignored entirely by the Montreal group who were internationalists and were not really being concerned with place.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "789.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Be that as it may, we all did get together and know each other. I knew Leo Kennedy well, and A. M. Klein, A. J. M. Smith, and all that group—of whom I’m sure Irving Layton will tell us more.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "805.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Leo Kennedy is perhaps the most interesting member of that Montreal group because he started out being an Eliot man and a mythic, mythopoaic poet and he started a magazine called Canadian Mercury which was to propagate the new idea of the new writing, and then when the ‘30s came along and the Depression hit him, he became a Marxist and his whole poetry changed, from being religious and mythical, to a poetry dealing with the crisis in the country—the unemployed crisis.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "824.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I don’t believe I can possibly talk about what happened in the ‘30s in a very brief space. Let me tell you that we started a theatre movement in Canada—a worker’s theatre movement—which made a great impact on the country and we started two magazines. One was Masses, which was proletarian literature to the hilt, very working-class and left-wing. And then a much more united-front magazine called New Frontier, which really sprang to life because of the Spanish Civil War and the struggle against it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "873.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I’m sure we all know by now that Canada sent more soldiers to aid Republican Spain than any other country except France. We sent twelve-hundred young men, and only six hundred came back. And this event stirred the imagination of the poets writing, especially a lot of newer voices like P. K. Page, Miriam Waddington, Ralph Gustafson and F. R. Scott also was writing poems about Spain.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "914.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And then there were two very interesting proletarian-oriented—labour-oriented—poets. Balladeers. One, Joe Wallace from Nova Scotia. A Catholic who was also a communist. And the other, a man who died only recently, Kenneth Leslie—also a Catholic and a great supporter of the miner’s union in Cape Breton. His poems aren’t known at all but they have now been published since his death in a Collected Poems and this little paperback called O’Malley to the Reds where a Catholic priest argues with the leaders of a miner’s trade union.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So all these things were happening in this country but they weren’t published at the time. They’re only being looked at and known about now. But if you do want to learn more, read in your library the files of New Frontier. Thank you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "990.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: As far as I know there were no readings anywhere. The readings are a phenomenon of the ‘60s and the ‘70s. It’s true that once Contemporary Verse got going in B.C. Alan Crawley and Earle Birney did do readings and talked about poetry on the CBC and they also started a movement of readings in the highschools in Vancouver, way back in the ‘40s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2831.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But in the ‘30s there were absolutely no readings. We were much too, I think, embarrassed or shy even to read much, even to each other. Everything was the printed and that’s why the magazine was such an important thing. People–or poets–were working together to produce a magazine and to try and get an audience for it with no help whatsoever—remember there was no Canada Council and there was no possible way of getting help for these, except when we went out and begged or had socials to raise money for our projects. Or perhaps we would find one or two sugar daddies who would kindly give us a hundred dollars to do the next issue, that sort of thing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2865.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "New Frontier itself was financed by a great friend of mine who herself had gone to the Spanish Civil War as an ambulance driver. But she helped finance it because her grandfather happened to be a capitalist and she inherited some of his money. So here was this left-wing socialist magazine financed by capitalist money.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2915.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think it’s very hard for you to understand—there was no CBC in the sense of continuing putting on programs of Canadian writing and there was no Canada Council whatsoever. It wasn’t until 1949—was it?—that the commission… SD: The Massy Commission. DL: …. The Massy Commission investigating the arts came up with the idea that there should be a Canada Council. Also from about the ‘50s on, Canadian Literature was launched by George Woodcock. So we lived in, I suppose, small pockets of people doing things, but never really reaching the mass of the people at all.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2943.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Well, it was the greatest issue, I think, in Canada, and one that united Canadians in a way that nothing else did. It certainly united the writers. I became an activist when I came back from France in 1931 and I joined a peace group which became the League Against War and Fascism and I joined a youth anti-war group, and we also went out into the streets whenever there were any struggles with the police and the unemployed or any mining or lumber strikes across the country. The writers went out and documented this and wrote about it in the left-wing press and out of that came a lot of my poems about struggle, like “Day and Night” and “The Outrider” and a thing called “Depression Suite” about Toronto unemployed.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So we were very much ‘with it.’ Particularly this was the case when I was a social worker in Montreal and Toronto and I think there was a hardly a day that went by when we didn’t make some act or do some speaking against the danger of fascism coming. And this was the time when, was it Sinclair Lewis wrote It Can’t Happen Here in the United States—a book that influenced of us because he showed that fascism was already showing itself in the United States.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And we could certainly see it in the police actions against, say, Montreal unemployed. I remember walking along the street with the unemployed and the police of Montreal coming out on horseback and the horses kicking us back against the buildings as we marched along the sidewalk. I had seen a lot of this in France when I was at the Sorbonne. But it was a strange thing to find it in Canada.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3358.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: So it was absolutely—we were certain that unless we stopped it there would be World War. And we were certain that Hitler and Mussolini had to be stopped and therefore the Spanish Civil War was the thing that revealed to us that the chance had come to stop both of these things: war and fascism.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And if it hadn’t been for the non-intervention of Britain, France, and the United States who allowed German and Italian planes and bombs and guns and tanks to come into Spain on behalf of Franco… if there had not been such a non-intervention, I think we might have stopped fascism and then have stopped the war because Hitler and Mussolini used Spain to get practice for their next move.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3413.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And we knew this—all the young people I was with knew this was happening and it was kind of—for Canada—it was kind a struggle such as the Americans had over Vietnam. It was our one great struggle. After that, as you know, instead of having a change of society after the war, we went back to comfort and negligence and consumerism. And so everything we had fought for seemed to have been lost.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3448.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: No, you are quite correct in saying that the poets I’ve mentioned and know now or were writing on behalf of Spain in New Frontier were middle-class. But there were many other unsung poets and balladeers such as I mentioned earlier, such as Joe Wallace and Kenneth Leslie in the Maritimes. There were singers and balladeers in Saskatchewan and British Columbia. It’s just that their work was never published in Canada. Joe Wallace was published in Russia and he got most of his audience from there eventually.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But all that side of labour writing didn’t get published and it’s only now that people are collecting prints to short stories written at the time. I’ve read some fifty short stories written in the ‘30s about the struggles. Realist stories, surrealist stories, ironic, satiric stories that are very worth looking at. And they are just now being collected.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3552.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So there’s this strange, strange lapse between what happened as history in the ‘30s and our sudden new interest in it. There have been more books about socialism and communism in Canada and its origins—there have been more books in this last few years than ever before. And there are more biographies and autobiographies of people like Tim Buck, Tom McEwan, J.S.Woodsworth, all of these.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It’s the strangest thing that there was almost this complete wipeout of what had happened and of the people who lived through it. But it’s rather marvellous to know that it’s finally being written and published and the novels today that go back that remember, like Garner’s Cabbagetown and the novel of Irene Baird about the unemployed sit-down in Victoria. SD: [whispering] Waste Heritage DL: —has been republished in paperback. And then you have writers like Anne Henry writing about the unemployed days of her youth.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3608.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-livesay-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "All kinds of books are coming out now and I don’t know how to explain it, but this is what’s happening and I find it it’s a very healthy thing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3645.0"
+        }
+      }
+    }
+  ]
+}

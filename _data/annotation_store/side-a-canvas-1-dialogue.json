@@ -1,0 +1,294 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-dialogue.json",
+  "type": "AnnotationPage",
+  "label": "dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Irving Layton: Testing, testing. Sandra Djwa: Let’s sort of see…. IL: So this will go on for, what, an hour and a half? SD: About an hour and a quarter to an hour and a half. Now, if anybody goes over their ten minutes and they get dangerously close to twelve, I’ll pull them from behind. IL: Right SD: Okay? IL: Yeah, stop us. Stop us in the middle of a sentence. Dorothy Livesay: How will you do it? SD: I’ll pull you from behind, I’ll tweak you. DL: Tweak my tail! SD: I’ll tweak your tail! SD: Okay.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AM: And – Am I going over my time yet? SD: Finish your story",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1612.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audience member laughs. IL: haw, haw! SD: Would you like to step outside?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1802.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Well, in the feminist ‘60s we sort of read these lines a little differently. But when they first appeared in the ‘50s, they were the gospel. IL: Besides that, their numbers have increased since then. SD: I think we’re meant to thank him.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1919.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Well, I wonder if we could go back, now that we’ve had a brief overview of the period from the mid-‘20s to the late-‘40s, I wonder if we could go back to Dorothy and especially to the ‘30s. It seems to me, Dorothy, that you started to talk about the Spanish Civil War and there may be some questions that either the panel would like to put to you, or perhaps after we’ve moved through Anne and Irving, members of the audience, too, about the ‘30s and your part in it. Is there anything you’d like to add?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2709.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Well, could I suggest that we be open to suggestions now with questioners asking whatever person they would like to have answer? Questioners on the panel, and then questioners— IL: And perhaps make a final statement, why not? SD: Yeah sure, how about questions from the floor on the ‘30s. Perhaps we could begin with Dorothy but if there are other questions we want to put we can fit them in, too.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2777.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: We actually have a good twenty to twenty-five minutes if go onto the full final quarter DL: Well, perhaps the panel would like to ask questions? SD: Or members of the panel, too, could feel free to ask questions, through the panel. SD: Yes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2806.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: I remember that P. K. Page gave her first reading here, actually, in our Canadian Literature course in 1969-70. That was her first reading— DL: And she was terribly afraid, terribly nervous! And now she tours the country reading.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Irving, what was your experience in the ‘50s? Did you do any reading? IL: I began to do readings around, I’d say, the middle ‘50s. I remember getting an invitation—Louis and I—getting an invitation to go to Toronto and give a reading there. There were very few readings that I can recall that I gave in Montreal. Wynne Francis, who was teaching at George Williams at the time did something which she considered—and we considered—daring in having John Sutherland and myself appear before one of her classes. But I noticed that the chairman of the department, as soon as I began to speak, just picked himself up and ostentatiously walked out of the room! So there was that kind of protest, you see, against what I was saying, or what Louis was trying to say about the gentility and the anti-sexuality that was prevalent at the time.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3001.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: So maybe things haven’t changed so much after all. SD: I think in answer to that question about the only Canadian poet who was trooping the country after Wilson Macdonald and Roberts and Carman who performed mostly in the ‘20s, about the only poet who trooped around E. J. Pratt. DL: Yes, that’s true. SD: He’s about the only one. DL: He read at universities, that’s true. I first heard “The Witch’s Brew” at Victoria College in Toronto when I was a highschool student and I first heard Pratt reading it. And this was a very exciting moment, to have poetry in the air instead of on the page.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3111.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: I think he’s saying that “the poet is the unacknowledged priest of the world. IL: That’s it, very good. SD: So I think there’s some truth to it. How about other questions from the floor?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3212.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: There’s someone over here. SD: Yes? Could you direct your question to a specific person and maybe could you stand so everyone can hear you? Sorry about that, but we can’t hear from over there.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3226.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-a-canvas-1-dialogue-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: But they did stop Hitler—they stopped the war, along with Churchill. IL: That may be so. Of course they did, and we supported… I want to show the strands and the thinking at the time. We certainly supported the Soviet Union and I wrote poems and articles and I was all there, believe me, along with Patrick Anderson and even A. M. Klein. Of course it was important to keep the alliance going. All I’m saying is that because of the alliance, we didn’t examine the credentials. And we didn’t examine, for example, the credentials of the Bolsheviks or the Communists at the time of the Spanish Civil War. It was later that we read George Orwell when we learned what the Communists were doing to the Trotskyists and the Anarchists and the POUN during the Spanish Civil War that we began to rethink the whole issue.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3755.0"
+        }
+      }
+    }
+  ]
+}
