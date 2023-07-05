@@ -22,7 +22,7 @@
       {
         "id": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3818,
+        "duration": 3818.0,
         "annotations": [
           
           {
@@ -86,7 +86,7 @@
                   "id": "https://ia804707.us.archive.org/16/items/obj-287-side-a_202302/OBJ-287_SideA.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 3818
+                    "duration": 3818.0
                 },
                 "target": "https://lgsump.github.io/teddie-timestamps/side-a/canvas-1/canvas"
               }
