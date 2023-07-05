@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-audience.json",
-            "label": {
-              "none": ["audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-dialogue.json",
             "label": {
               "none": ["dialogue"]
