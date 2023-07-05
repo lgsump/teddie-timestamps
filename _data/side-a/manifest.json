@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-marriott.json",
-            "label": {
-              "none": ["Marriott"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-a-canvas-1-livesay.json",
             "label": {
               "none": ["Livesay"]
