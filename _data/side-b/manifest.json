@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/teddie-timestamps/side-b/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Side B" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/obj-287-side-b_202302",
+        "type": "Text",
+        "label": { "en": [ "Side B" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2403.0,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia804704.us.archive.org/3/items/obj-287-side-b_202302/OBJ-287_SideB.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2403.0
+                },
+                "target": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
