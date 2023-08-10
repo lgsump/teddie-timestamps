@@ -1,0 +1,338 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-dialogue.json",
+  "type": "AnnotationPage",
+  "label": "dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: Oh, Christ, no! No! I picked up my socialism in the slums of the streets of Montreal. Christ, no! SD: What can I say? More questions, please!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "105.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AM: And Sandra, what about the farmers? I mean, after all Saskatchewan was the first CCF government and I mean my relatives there who were struggling not to go on relief when I stayed with them and I finally had to break down and go on it. You know, they were—my young cousins—I mean, they were the sort of people that got into the CCF and—SD: I think—I think that the rank-and-file…. AM: And they certainly never went to university. If they got through grade ten they were lucky…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: The rank-and-file were certainly not university-trained, but the people who wrote the Regina Manifesto—the Underhills, the Cassidys, the Frank Scotts—they all had been to Oxford and they all got their Fabian Socialism there and Woodsworth, too, was a product of the British university system. He was a minister, but he got his Fabian socialism in England.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "187.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: But anyway, what the purpose of the evening is, is to give the audience a chance to ask more questions of three people, really, who have more information on these three decades than almost anybody else in the country. Are there other questions that you would like to have answered? Yes?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Well, there were always the British publishers—Macmillan and Oxford. IL: Oh, yes. DL: But they didn’t touch any of this new writing. And I think it’s amazing that Lorne Pierce hasn’t been given more attention by the critics and by the students because he really worked doggedly at getting Canadian poetry published in little chapbooks during the ‘30s and ‘40s. And some of it was good and some of it was bad. But he tried to do that. He claimed that he had the money to publish poetry because so much money was made out of the bible, which the Ryerson Press was responsible for publishing",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: Perhaps a word should be said about the critics at the time, Dorothy? DL: Pardon? IL: I’m not really qualified because I’m so prejudiced. But maybe somebody would like to say something about the state of criticism at the time.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "342.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Well, it’s clear that I owe you a great apology, Irving. I’ve heard from Louis Dudek the great discussions you had on communism at McGill and I just put two and two together and got five. Well, are there further questions that you’d like to put this evening? DL: This one. SD: Yes",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "464.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Well, the first transition was from my adolescent books Green Pitcher and—what was the next one? SD: City Wife? DL: No, the little one. SD: The chapbook? DL: Signpost, was it? Signpost.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "512.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Perhaps Anne would like to answer that, would you? AM: Oh, I think you can do it. DL: [whispering to Anne]… How has the Canada Council aid affected young poets?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "914.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AM: Well, I think poets now are really very lucky. I mean, as Dorothy and Irving have said, it was really hard to get published. I often wonder if “The Wind, Our Enemy” would even had got published if Dorothy’s father hadn’t taken it and been a good friend of Lorne Pierce. And I know I got a lot of publicity. It was reviewed all across the country because Dorothy’s father was the head of Canadian press.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "925.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, I think with these grants and all the little mags—I mean, now there are just so many magazines. It’s just absolutely marvellous. There’s so many places to get published. There’s no sort of— DL: Well, is that a good thing in your opinion? AM: Oh, I think it is a most excellent thing. I mean, why not?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "954.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: No, the great thing that’s lacking in the 70s is the apathy. And the concern with one’s own navel and reading to each other. There is no real political poetry being written today, and even the novels—the novels are more political, I agree. AM: But what political—well national unity—but I mean, we haven’t really got those same political things to fight against, unless we have another depression, which I guess is possible…” DL: “Well, it’s here isn’t it?”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "990.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AM: Well don’t you think a lot of the young poets are writing poems about pollution and that sort of thing. I think a great many are. DL: Well, I say the youngest ones are beginning to, I believe. But this whole group that’s been to the fore in the ‘60s and ’70s is not doing this. I did find one very remarkably interesting poem by Margaret Atwood—entirely different sort of poem in a magazine just recently. It’s in a collection, an anthology. It’s a poem—a very pungent satire against Trudeau. And I’d say it’s the first thing I’d seen of hers that I’d say is politically conscious.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1096.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Irving has asked to have the last word. IL: Oh, not the last word. I just want to say something— for a change!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-dialogue-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: I think that Irving Layton, in his view of man, has indeed proven that the poet—or some of the poets today—have taken the function of the priest. IL: The prophet, not the priest. The prophet SD: How about the prophet-priest? Which is a good—IL: I’m happy to make a compromise. SD: I think that all that remains for me to do is to thank the panel on your behalf.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1469.0"
+        }
+      }
+    }
+  ]
+}

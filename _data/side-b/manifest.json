@@ -23,6 +23,48 @@
         "id": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2403.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-dialogue.json",
+            "label": {
+              "none": ["dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-djwa.json",
+            "label": {
+              "none": ["Djwa"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-audience.json",
+            "label": {
+              "none": ["audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-layton.json",
+            "label": {
+              "none": ["Layton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-livesay.json",
+            "label": {
+              "none": ["Livesay"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/paintings",

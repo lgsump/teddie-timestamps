@@ -1,0 +1,382 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-layton.json",
+  "type": "AnnotationPage",
+  "label": "Layton",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: … to the bitter end along with his wife Peggy, Frank Scott was never Communist. He was anti-communist, he was a socialist. And so was A. M. Klein. So there was this whole rethinking of and about the Soviet Union after the termination of World War II. And that, of course, has continued in my thinking and Louis’s thinking and of the thinking of other poets of the period.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: I didn’t relate at all. I wasn’t published until 1959. I couldn’t find a publisher for about fourteen years and I had to publish my own books one year after another. But there was Ryerson. And Ryerson published Louis Dudek, and Pat Page—I believe—Raymond Souster brought out Unit of Five.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "237.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They were going to distribute my book later on, Red Carpet for the Sun until somebody found a couple of dirty words. And they said, “nothing doing, we won’t distribute the book.” Then, of course, there was McClelland and Stewart that came on the scene a bit later. But at that time the only publisher, really, was Ryerson Press and that was because they had Lorne Pierce as the editor who was very sympathetic to what was happening. I can’t think of any other publisher—",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "263.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: The only figure that I was dimly aware of was E. K. Brown and of course A. J. M. Smith and the magisterial figure of Northrop Frye and I didn’t have much use for any one of them because I felt they were rather academic and not sympathetic to the kind of thing that I was trying to do in my poetry, which was to express the living realities I had experienced, you see? The kind of world that I knew—that’s why I shouted a moment ago, “god damnit I didn’t learn my socialism at the university” I learned it in the streets. I was brought up in a semi-slum, and there was crime and prostitution and all that kind of thing, and class conflict was quite visible, and racial conflict between French Canadians and Italian Canadians and the both turned against the Jews, you know?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "356.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was the kind of thing, and when I looked at the poetry. I looked at Carman and Lampman and Roberts, my god, I didn’t see my world reflected at all. I heard the sound of skylarks, you know? I saw flowers. I didn’t see garbage cans. There were no whores. There was none of the world that I was acquainted with, you know? And that’s what I began to protest against, besides the anti-eroticism, that there was no evidence that sex, you know, was what was had in this country, or that anybody went to the washroom, you know?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL: You know I don’t really see all that much change from where I sit, and after my own evolution and development through the simplicities of politics. I rather envy Dorothy, her warmth. And her concern. And above all, her confidence. I lost that. I don’t believe in any political solution. And I feel that things have not changed as far as the literary scene is concerned. I began by attacking the academicism, the remoteness from reality, the gentility. And If I had to write things today, I think I would attack the same things.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1153.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I don’t see any poems coming out from Canadian poets about Gulag. I don’t see any tribute paid to Andre Malraux or Solzhenitsyn, the dissidents, the rebels, the martyrs of the Soviet, of the Communist Empire. I don’t see any poems to the brave Ukrainians or Poles or Lithuanians who have been robbed of their cultural and national rights.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1191.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There isn’t a single poem that has been written by a Canadian poet—correct me, please, if I’m wrong—about the Holocaust. And the great events of our time, surely, have been the Holocaust and Gulag.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And you know why? Because they indicate that the problem is not political, not sociological, but deeply psychological. Existentialist, if you wish. That the problem arises in the heart and soul of man. That it is ridden and divided because man is someone who has a soul that is tethered to an asshole. That he shits, that he decomposes, that it’s a soul in an erotic body, that he desires power, that he exercises cruelty to give him that sense of power. And that ideologies and ideologues so often mask our aggressiveness, that ruthless desire for power, the cruelty, the dominion and domination over other people.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1238.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is what Gulag is all about. This is what the Holocaust is all about. That science and technology and the Enlightenment could be employed to exterminate helpless men, women, and children. Indignities and abuses inflicted upon them. A million and a half children killed. This is what we’re at. This is where we are at. I find no Canadian poets talking about that.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I find Canadian poetry as gutless, as bloodless, as I found it in 1942. So now they’re taking about ecology and pollution and what’s happened to the Indian and so forth. But where are the great psychological and moral issues of our time in the Canadian poetry? I don’t see it reflected at all!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I pick up a Canadian anthology of this new West Coast and there wasn’t a damn poem that really merits any attention. And good stuff? Technically and there was a concern with technique, etcetera, etcetera. But where are the poets that are really talking about these moral, political, and psychological dilemmas of our time. I do not find it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I would just like to conclude with a paragraph from my forthcoming book to indicate just where I am at.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1372.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "IL, reciting from book: Still it’s hard but not impossible for me to break a habit that has taken almost half a century to form. I’m talking about the habit of writing poetry. Today only words artfully shaped out of passion and integrity have any meaning or validity for me. All other verbiage I regard as verbal excrement on floral bum-paper.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1383.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I recall saying to a friend: When my head is soaked by time I hope I shall have enough craft and wisdom to compose a handful of lyrics that say with precision and intensity what living on this beautiful and dangerous planet has meant.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1403.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I am modest enough to believe that such lyrics will be found in the present volume by the alert and sensitive reader. And I am sanguine enough to think that such a reader still exists. When women, homosexuals, proles, and Blacks are at last free and equal, people will still continue to experience grief and rapture, want sex, grow old, and die.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-layton-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Enduring poets keeps these constants in mind whatever the earth-shaking changes in foreign policy and government. Yours truly.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1449.0"
+        }
+      }
+    }
+  ]
+}

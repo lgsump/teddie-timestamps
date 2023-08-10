@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-djwa.json",
+  "type": "AnnotationPage",
+  "label": "Djwa",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-djwa-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: I wonder if I could add a point to the question, which was why was it that a lot of the writers for, I think it was Masses and New Frontier, were university people or had some sort of university education. I think I would like to make a generalization in response to that, and that is that socialism in Canada that resulted in the formation of the Cooperative Commonwealth Federation, the CCF, was basically Fabian socialism. And it was really brought in by a group of men—many of whom had been to Oxford—and who had absorbed Fabian socialism.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "32.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-djwa-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so we had a very large block of people in Canada who were Fabian socialists and who were university people. Because they picked up their socialism at university. And this was also the case, although to a lesser extent because there was a smaller number, with the communist supporters of the ‘30s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "72.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-djwa-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think, Dee, you acquired your left—or a part of your left—at the Sorbonne and I think, Irving, didn’t some of your Marxism—didn’t you acquire it at McGill?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "94.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-djwa-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SD: Well, could we take perhaps one last question?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "871.0"
+        }
+      }
+    }
+  ]
+}

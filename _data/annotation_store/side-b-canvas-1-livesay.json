@@ -1,0 +1,294 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/teddie-timestamps/annotations/side-b-canvas-1-livesay.json",
+  "type": "AnnotationPage",
+  "label": "Livesay",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: No, as the documentation in my book Right Hand, Left Hand shows, one thing you could never accuse the communists of was of not fighting the day-to-day struggles of the people in the streets, in the factories, on the unemployed line, in the mines and so on.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They were the most active fighters for the unemployed and the down-and-outs it was because of that we joined with them—middle-class intellectuals—but also on New Frontier there were some of these same working people who never had been to university. I mean, it wasn’t just an intellectual group.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "139.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: Anyway, those two books published in ’28 and ’32 were personal lyrics and there were some poems which were aware of the environment and how it was being damaged by man—a little poem called “Pioneer” and another called “The Hermit.” Longer poems describing how we were devouring the country, and destroying it. But in general the poems were private, metaphysical, witty, love poems.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "531.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And it was only after doing a thesis on symbolist poetry in Paris that I began to read Edith Sitwell’s work and particularly a long poem she wrote called “Gold Coast Customs” and I compared that with Eliot’s “The Waste Land” and I felt that she was far more critical of society than was Eliot.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "567.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And then after coming back to Canada and being very active as an activist in the political left I went through social work in Toronto and one of my first jobs was in Montreal and there we had a whole series of discussions of whether art should be a tool to fight for a changed society or whether it was simply an image, you know, a description of the situation.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "596.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I tried all kinds of writing in that period—what we called “agitprop”—agitational propaganda where a kind of Brechtian mass chant was developed. And said aloud at trade union meetings and on picket lines and so on. I tried that. I wrote some dramatic poetry for the worker’s theatre",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "632.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and I only realized that poetry could be written which combined the personal and lyrical with the political view after I had been New Jersey for a year as a social worker, seen the Black problem, and—found in a little bookshop in Greenwich Village—found the poems Auden, Spender, Day-Lewis and his book A Hope for Poetry and I was absolutely entranced to find that I could write—that a poet could write very personal, even nature poetry, but also have a political point of view and a message.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "658.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So when I came back to Canada in ’36 I suddenly began writing “Day and Night” about my experiences in New Jersey in the steel factories and the struggle of the Blacks against prejudice and I began writing about the struggles of Ontario farmers and the fact that they were all being ‘de-bourgeoisified’ because they had to come to the city for work and work in factories. And that poem was a long poem called “The Outrider.” I think in all those poems of that period there was a great deal of lyricism and a personal feeling, as well as the political message that we must struggle to change the world, or to change our society.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "704.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So that kind of writing then took a long time to arrive at. Because there’s a great difference between personal lyricism and agitprop poetry and I had to learn how to bridge the two and make it work and some of my poems are faulty. They’re flawed, because they didn’t achieve that integration. But I think the two longest documentaries of that period did achieve the integration.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "758.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, then you see we were all absolutely held up short because of the war, which we had predicted and the whole of the country changed and at that time, also, I married and had two children in 1940, 1942. So I was completely occupied then by family life. And I had been, of course, very disappointed in what happened in the Hitler-Russian pact but very heartened again because of Churchill’s and Stalin’s agreement to fight Hitler.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "792.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So the poetry of the ‘40s that I wrote was still socially conscious, I think. I wrote the long poem about the Japanese evacuation from the West Coast. But, at the same time, it was family poetry. Poetry about friends and children and relationships between husband and wife. A woman’s desire to escape and be a creative person, and yet bound to the family. Many poems of that sort written in that period. So in answer to your question I would say that every decade creates changes in society, creates changes in the poet.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "828.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DL: I think there are signs that poets are beginning to be concerned. I wish I had brought with me a poem by a young girl of twenty. I should have brought it. She does a take off of the Lord’s Prayer. “Oh Dada, who art in heaven” it begins. And it’s an attack—it’s about the nuclear bomb. She’s written about six or seven poems against the atom bomb and the nuclear thrust and so on. And she’s only twenty. She’s a student at the University of Ottawa and she’s amazingly aware and very, very passionate about these things.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1028.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "side-b-canvas-1-livesay-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I do think it’s perhaps coming, but I don’t see the Old Guard. By that I mean poets like Purdy and poets like, well, whoever—I shouldn’t name names. I don’t think they are doing what they should do about the present. Terrible danger of world destruction.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/teddie-timestamps/side-b/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1074.0"
+        }
+      }
+    }
+  ]
+}
